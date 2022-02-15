@@ -1,0 +1,75 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Balboa_Nevera_Mailing.ai
+Color Mode: CMYK color
+Color Profile: Coated FOGRA39 (ISO 12647-2:2004)
+Ruler Units: pixels
+Artboard Dimensions: 650 px x 900 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+PANTONE 7562 C (Lab)
+PANTONE 7622 C (Lab)
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Universal Serif (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+F:\NWC\Balboa\Balboa_Nevera_Promo_Arte_Carpeta\Links\hisense-logo_2.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 12980K, 4096 by 649 pixels
+Dimensions: 88,161 by 13,969 points 
+Resolution: 3345,168 by 3345,168 pixels per inch
+
+
+F:\NWC\Balboa\Balboa_Nevera_Promo_Arte_Carpeta\Links\Heladerita.psd
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 6891K, 1128 by 1564 pixels
+Dimensions: 275,606 by 382,135 points 
+Resolution: 294,681 by 294,681 pixels per inch
+
+
+F:\NWC\Balboa\Balboa_Nevera_Promo_Arte_Carpeta\Links\NewBalancePanama2021HomeJersey.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 30517K, 2500 by 2500 pixels
+Dimensions: 373,535 by 373,535 points 
+Resolution: 481,882 by 481,882 pixels per inch
+
+
+F:\NWC\Balboa\Balboa_Nevera_Promo_Arte_Carpeta\Links\Balboa_Nevera_Promo_Arte_650x900px.psd
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1713K, 650 by 900 pixels
+Dimensions: 650 by 900 points 
+Resolution: 72 by 72 pixels per inch
